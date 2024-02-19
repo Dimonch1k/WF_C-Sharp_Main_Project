@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\cmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\cmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\carcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\carcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\form_win_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\form_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\printmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\printmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\cwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\cwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\imethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\imethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\form_choose_fighters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\attacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\attacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\frontface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\frontface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|d:\\.leskiv_dmytro\\programming\\1.1_winforms_c#\\win_forms_main_project\\mainproject\\mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B1720-789D-474B-B801-24ED45192797}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 210,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 410,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Start.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Start.cs",
+              "RelativeDocumentMoniker": "MainProject\\Form_Start.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Start.cs [Design]",
+              "RelativeToolTip": "MainProject\\Form_Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:35:31.801Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_Start.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Start.cs",
+              "RelativeDocumentMoniker": "MainProject\\Form_Start.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Start.cs",
+              "RelativeToolTip": "MainProject\\Form_Start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:30:31.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Win_End.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Win_End.cs",
+              "RelativeDocumentMoniker": "MainProject\\Form_Win_End.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Win_End.cs [Design]",
+              "RelativeToolTip": "MainProject\\Form_Win_End.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:16:07.962Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Win_End.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Win_End.cs",
+              "RelativeDocumentMoniker": "MainProject\\Form_Win_End.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Win_End.cs",
+              "RelativeToolTip": "MainProject\\Form_Win_End.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:17:53.117Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_Choose_Fighters.cs [Design]",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Choose_Fighters.cs",
+              "RelativeDocumentMoniker": "MainProject\\Form_Choose_Fighters.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Choose_Fighters.cs [Design]",
+              "RelativeToolTip": "MainProject\\Form_Choose_Fighters.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:26:47.187Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_Choose_Fighters.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Choose_Fighters.cs",
+              "RelativeDocumentMoniker": "MainProject\\Form_Choose_Fighters.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Form_Choose_Fighters.cs",
+              "RelativeToolTip": "MainProject\\Form_Choose_Fighters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:26:58.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Program.cs",
+              "RelativeDocumentMoniker": "MainProject\\Program.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Program.cs",
+              "RelativeToolTip": "MainProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrontFace.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\FrontFace.cs",
+              "RelativeDocumentMoniker": "MainProject\\FrontFace.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\FrontFace.cs",
+              "RelativeToolTip": "MainProject\\FrontFace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Attacks.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Attacks.cs",
+              "RelativeDocumentMoniker": "MainProject\\Attacks.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\Attacks.cs",
+              "RelativeToolTip": "MainProject\\Attacks.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintManager.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\PrintManager.cs",
+              "RelativeDocumentMoniker": "MainProject\\PrintManager.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\PrintManager.cs",
+              "RelativeToolTip": "MainProject\\PrintManager.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\IHero.cs",
+              "RelativeDocumentMoniker": "MainProject\\IHero.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\IHero.cs",
+              "RelativeToolTip": "MainProject\\IHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.706Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMethods.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\IMethods.cs",
+              "RelativeDocumentMoniker": "MainProject\\IMethods.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\IMethods.cs",
+              "RelativeToolTip": "MainProject\\IMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CWarrior.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\CWarrior.cs",
+              "RelativeDocumentMoniker": "MainProject\\CWarrior.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\CWarrior.cs",
+              "RelativeToolTip": "MainProject\\CWarrior.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMage.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\CMage.cs",
+              "RelativeDocumentMoniker": "MainProject\\CMage.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\CMage.cs",
+              "RelativeToolTip": "MainProject\\CMage.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwGUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CArcher.cs",
+              "DocumentMoniker": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\CArcher.cs",
+              "RelativeDocumentMoniker": "MainProject\\CArcher.cs",
+              "ToolTip": "D:\\.Leskiv_Dmytro\\PROGRAMMING\\1.1_WinForms_C#\\Win_Forms_Main_Project\\MainProject\\MainProject\\CArcher.cs",
+              "RelativeToolTip": "MainProject\\CArcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:27:33.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
